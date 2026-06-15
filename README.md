@@ -40,7 +40,7 @@ Fokus utama dari project ini adalah mengolah data aktivitas media sosial menjadi
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Google Looker Studio:
 https://datastudio.google.com/reporting/6bb4125a-f782-4134-a511-834997cdce93
-<img width="2500" height="3126" alt="Social_Media_Content_Analytics" src="https://github.com/user-attachments/assets/85a82cbf-06a1-4e62-a92e-39f5b1f29eca" />
+<img width="2500" height="3126" alt="Social Media Content Analytics" src="https://github.com/user-attachments/assets/9a791c61-7e13-4070-a72d-ef86ebc67cd4" />
 
 ## 📊 Insights
 - Pada periode 1–30 September 2025, aktivitas media sosial menghasilkan total reach sebesar 38.800, total impressions sebesar 96.730, total engagement sebesar 6.740, dan total ad spend sebesar Rp58,99 juta. Dibandingkan dengan 30 hari sebelumnya, reach meningkat 12,5%, impressions meningkat 22,0%, engagement meningkat 18,5%, sementara total ad spend menurun 7,9%, menunjukkan peningkatan performa dengan penggunaan anggaran yang lebih efisien.
